@@ -1,5 +1,7 @@
 HELLO WORLD
 
+Today : 170908
+
 
 HOW TO RUN
 1. shmem_* : server and client processes will be share same memory area that can be writable and readable from both sides. 
